@@ -14,7 +14,10 @@ This repository contains a Python script for performing data analysis and visual
 
 Feel free to fork, contribute, or utilize this script for analyzing and visualizing your sales data!
 
+# Bar Graph Representation 
 ![Sports Sales](https://github.com/SANJAYSS-SRM-26/Sports-Sales-Data-Analysis-and-Visualization-Python-/blob/main/barrep.png)
+
+# Line Graph Representation
 ![Sports Sales](https://github.com/SANJAYSS-SRM-26/Sports-Sales-Data-Analysis-and-Visualization-Python-/blob/main/linerep.png)
 
 
