@@ -20,6 +20,10 @@ Feel free to fork, contribute, or utilize this script for analyzing and visualiz
 # Line Graph Representation
 ![Sports Sales](https://github.com/SANJAYSS-SRM-26/Sports-Sales-Data-Analysis-and-Visualization-Python-/blob/main/linerep.png)
 
+# Sample Data
+![Sports Sales](https://github.com/SANJAYSS-SRM-26/Sports-Sales-Data-Analysis-and-Visualization-Python-/blob/main/SampleData.png)
+
+
 
 
 
